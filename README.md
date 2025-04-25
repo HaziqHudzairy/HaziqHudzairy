@@ -18,19 +18,19 @@ I'm passionate about building creative tech solutions — websites, mobile apps,
 
 ### 🖥️ Programming Languages
 <p align="left">
-  <div align="center" style="display: inline-block; margin: 10px;">
+  <div align="center" style="margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/><br>HTML5
   </div>
-  <div align="center" style="display: inline-block; margin: 10px;">
+  <div align="center" style="margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/><br>CSS3
   </div>
-  <div align="center" style="display: inline-block; margin: 10px;">
+  <div align="center" style="margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/><br>JavaScript
   </div>
-  <div align="center" style="display: inline-block; margin: 10px;">
+  <div align="center" style=" margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/><br>Java
   </div>
-  <div align="center" style="display: inline-block; margin: 10px;">
+  <div align="center" style="margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/><br>Python
   </div>
 </p>
