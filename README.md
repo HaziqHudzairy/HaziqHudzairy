@@ -72,8 +72,6 @@ I'm passionate about building creative tech solutions — websites, mobile apps,
     <td align="center" width="80">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/512px-Adobe_Premiere_Pro_CC_icon.svg.png" width="30" height="30"/><br><sub>Premiere Pro</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="80">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30"/><br><sub>Figma</sub>
     </td>
