@@ -22,19 +22,19 @@ I'm passionate about building creative tech solutions — websites, mobile apps,
 <table>
   <tr>
     <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30"/><br>HTML5
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30"/><br><sub>HTML5</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30"/><br>CSS3
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30"/><br><sub>CSS3</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/><br>JavaScript
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/><br><sub>JavaScript</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/><br>Java
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/><br><sub>Java</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/><br>Python
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/><br><sub>Python</sub>
     </td>
   </tr>
 </table>
@@ -43,13 +43,13 @@ I'm passionate about building creative tech solutions — websites, mobile apps,
 <table>
   <tr>
     <td align="center" width="80">
-      <img src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" width="30" height="30"/><br>Laravel
+      <img src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" width="30" height="30"/><br><sub>Laravel</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30"/><br>React Native
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30"/><br><sub>React Native</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://avatars.githubusercontent.com/u/33832876?s=280&v=4" width="30" height="30"/><br>AR.js
+      <img src="https://avatars.githubusercontent.com/u/33832876?s=280&v=4" width="30" height="30"/><br><sub>AR.js</sub>
     </td>
   </tr>
 </table>
@@ -58,33 +58,33 @@ I'm passionate about building creative tech solutions — websites, mobile apps,
 <table>
   <tr>
     <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="30" height="30"/><br>VS Code
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="30" height="30"/><br><sub>VS Code</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="30" height="30"/><br>Android Studio
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="30" height="30"/><br><sub>Android Studio</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" width="30" height="30"/><br>Photoshop
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" width="30" height="30"/><br><sub>Photoshop</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" width="30" height="30"/><br>Illustrator
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" width="30" height="30"/><br><sub>Illustrator</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/512px-Adobe_Premiere_Pro_CC_icon.svg.png" width="30" height="30"/><br>Premiere Pro
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/512px-Adobe_Premiere_Pro_CC_icon.svg.png" width="30" height="30"/><br><sub>Premiere Pro</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30"/><br>Figma
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30"/><br><sub>Figma</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="30" height="30"/><br>Unity
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="30" height="30"/><br><sub>Unity</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="30" height="30"/><br>Blender
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="30" height="30"/><br><sub>Blender</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://www.softexia.com/wp-content/uploads/2024/04/Autodesk_Maya.webp" width="30" height="30"/><br>Maya
+      <img src="https://www.softexia.com/wp-content/uploads/2024/04/Autodesk_Maya.webp" width="30" height="30"/><br><sub>Maya</sub>
     </td>
   </tr>
 </table>
