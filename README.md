@@ -23,14 +23,14 @@ I'm passionate about building creative tech solutions — websites, mobile apps,
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" alt="Assembly" width="50" height="50"/>
+<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" alt="Assembly" width="50" height="50"/> -->
 </p>
 
 ### 📲 Frameworks & Libraries
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg](https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" alt="Laravel" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/AR.js_Logo.png" alt="AR.js" width="50" height="50"/> <!-- Custom because no devicon -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/AR.js_Logo.png](https://designheritage.mit.edu/_dh_debug/ARjs/_current/data/logo/logo-black-transparent-1280x512.png" alt="AR.js" width="50" height="50"/> <!-- Custom because no devicon -->
 </p>
 
 ### 🎨 Tools
