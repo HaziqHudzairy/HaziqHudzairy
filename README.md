@@ -18,32 +18,65 @@ I'm passionate about building creative tech solutions — websites, mobile apps,
 
 ### 🖥️ Programming Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" alt="Assembly" width="50" height="50"/> -->
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/><br>HTML5
+  </div>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/><br>CSS3
+  </div>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/><br>JavaScript
+  </div>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/><br>Java
+  </div>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/><br>Python
+  </div>
 </p>
 
 ### 📲 Frameworks & Libraries
 <p align="left">
-  <img src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" alt="Laravel" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="50" height="50"/>
-  <img src="https://avatars.githubusercontent.com/u/33832876?s=280&v=4" alt="AR.js" width="50" height="50"/> <!-- Custom because no devicon -->
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" width="50" height="50"/><br>Laravel
+  </div>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/><br>React Native
+  </div>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://avatars.githubusercontent.com/u/33832876?s=280&v=4" width="50" height="50"/><br>AR.js
+  </div>
 </p>
 
 ### 🎨 Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" alt="Adobe Illustrator" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/512px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="Adobe Premiere Pro" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="50" height="50"/>
-  <img src="https://www.softexia.com/wp-content/uploads/2024/04/Autodesk_Maya.webp" alt="Maya" width="50" height="50"/>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="50" height="50"/><br>VS Code
+  </div>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="50" height="50"/><br>Android Studio
+  </div>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" width="50" height="50"/><br>Photoshop
+  </div>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" width="50" height="50"/><br>Illustrator
+  </div>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/512px-Adobe_Premiere_Pro_CC_icon.svg.png" width="50" height="50"/><br>Premiere Pro
+  </div>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" height="50"/><br>Figma
+  </div>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="50" height="50"/><br>Unity
+  </div>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="50" height="50"/><br>Blender
+  </div>
+  <div align="center" style="display: inline-block; margin: 10px;">
+    <img src="https://www.softexia.com/wp-content/uploads/2024/04/Autodesk_Maya.webp" width="50" height="50"/><br>Maya
+  </div>
 </p>
 
 ---
