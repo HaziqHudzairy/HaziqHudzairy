@@ -8,13 +8,11 @@
 📫 haziq.huzairi11@gmail.com • [LinkedIn](http://www.linkedin.com/in/muhammad-haziq-hudzairy-hussin-56885922a)  
 🌐 [My Portfolio Website](https://hudzairyportfolio.netlify.app/)
 
----
 
 ## 🧠 About Me
 
 I'm passionate about building creative tech solutions — websites, mobile apps, AR/VR, and 3D experiences!
 
----
 
 ## 🛠️ Languages and Tools
 
@@ -87,11 +85,10 @@ I'm passionate about building creative tech solutions — websites, mobile apps,
   </tr>
 </table>
 
----
 ## ⭐ Github Stats
 
 ![haziqhudzairy's GitHub stats](https://github-readme-stats.vercel.app/api?username=haziqhudzairy&show_icons=true&theme=shadow_blue)
----
+
 
 ## 💼 Notable Projects
 
@@ -101,7 +98,6 @@ I'm passionate about building creative tech solutions — websites, mobile apps,
 - 🔹 Bullying Prevention App (Ongoing) – Anonymous reporting platform for students
 - 🔹 PETRONAS Knowledge Management Podcast – Multimedia Production Support
 
----
 
 ## 🏆 Achievements
 
@@ -110,13 +106,11 @@ I'm passionate about building creative tech solutions — websites, mobile apps,
 - 🎖️ Recognition of Exceptional Excellence at Vision One SDN. BHD
 - 🏅 3x Focused Recognition Awards at PETRONAS
 
----
 
 ## 📌 Let's Connect!
 
 Feel free to reach out if you’d like to work together on something exciting!
 
----
 
 ⭐ _Thanks for visiting my GitHub!_
 
