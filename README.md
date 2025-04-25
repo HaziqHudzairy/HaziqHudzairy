@@ -8,6 +8,7 @@
 📫 haziq.huzairi11@gmail.com • [LinkedIn](http://www.linkedin.com/in/muhammad-haziq-hudzairy-hussin-56885922a)  
 🌐 [My Portfolio Website](https://hudzairyportfolio.netlify.app/)
 
+--
 
 ## 🧠 About Me
 
