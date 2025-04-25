@@ -10,76 +10,53 @@
 
 ## 🧠 About Me
 
-I'm a passionate developer with experience in:
-- 🌍 Web & Mobile Development (Laravel, React Native)
-- 🎮 Game Development
-- 🧩 Augmented & Virtual Reality
-- 🧑‍🎨 3D Design and Animation
-- 🎞️ Multimedia Content Creation
-
-Creative, tech-savvy, and always looking to collaborate on impactful projects!
+I'm passionate about building creative technology solutions, from websites to mobile apps, AR/VR, and 3D experiences!
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Languages and Tools
 
-### 🖥️ Programming Languages
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-555555?logo=verilog&logoColor=white)
-
-### 📲 Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black)
-![AR.js](https://img.shields.io/badge/-AR.js-0088CC?logo=augmentedreality&logoColor=white)
-
-### 🎨 Tools
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=androidstudio&logoColor=white)
-![Adobe](https://img.shields.io/badge/-Adobe_Creative_Cloud-DA1F26?logo=adobecreativecloud&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+</p>
 
 ---
 
-## 💼 Projects
+## 💼 Notable Projects
 
-### 🔹 [UM.AR](https://um-ar-features.netlify.app/)
-> Location-based Augmented Reality web app to help students navigate Universiti Malaya.
-
-### 🔹 [Vision One Oil & Gas Website](https://visionone.com.my/public/)
-> Corporate website redesign using Laravel, awarded for exceptional excellence.
-
-### 🔹 [Thermo Analysis App](#)
-> Mobile app for centrifugal chiller enthalpy analysis using thermodynamic calculations.
-
-### 🔹 Bullying Prevention App *(Ongoing)*
-> Mobile application allowing students to anonymously report bullying cases.
-
-### 🔹 [Knowledge Management Podcast Video](#)
-> Videographer & editor for PETRONAS' internal multimedia initiative.
+- 🔹 [UM.AR](https://um-ar-features.netlify.app/) – AR Navigation Web App (AR.js + Node.js)
+- 🔹 [Vision One Corporate Website](https://visionone.com.my/public/) – Corporate Web Development with Laravel
+- 🔹 Thermo Analysis Mobile App – Research-based Chiller Performance Calculator
+- 🔹 Bullying Prevention App (Ongoing) – Anonymous reporting platform for students
+- 🔹 PETRONAS Knowledge Management Podcast – Multimedia Production Support
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 1st Place - Website Development, Software Engineering Day 2024  
-- 🥉 Bronze Award - Software Innovation Day 2022 (SDG 2: Zero Hunger)  
-- 🏅 3x Focused Recognition - Internship at PETRONAS Knowledge Management  
-- 🎖️ Recognition of Exceptional Excellence - Vision One Web Redevelopment  
+- 🥇 1st Place - Website Development, Software Engineering Day 2024
+- 🥉 Bronze Award - Software Innovation Day 2022 (SDG 2: Zero Hunger)
+- 🎖️ Recognition of Exceptional Excellence at Vision One SDN. BHD
+- 🏅 3x Focused Recognition Awards at PETRONAS
 
 ---
 
-## 📌 Let’s Connect
+## 📌 Let's Connect!
 
-Feel free to reach out if you'd like to collaborate or know more about what I do.  
-I’m always up for learning new things and contributing to exciting tech projects!
+Feel free to reach out if you’d like to work together on something exciting!
 
 ---
 
-⭐ _Thank you for visiting my GitHub!_
-
+⭐ _Thanks for stopping by!_
