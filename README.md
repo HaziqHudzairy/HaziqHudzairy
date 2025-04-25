@@ -90,7 +90,7 @@ I'm passionate about building creative tech solutions — websites, mobile apps,
 ---
 ## ⭐ Github Stats
 
-![haziqhudzairy's GitHub stats](https://github-readme-stats.vercel.app/api?username=haziqhudzairy&show_icons=true&theme=gruvbox)
+![haziqhudzairy's GitHub stats](https://github-readme-stats.vercel.app/api?username=haziqhudzairy&show_icons=true&theme=shadow_blue)
 ---
 
 ## 💼 Notable Projects
