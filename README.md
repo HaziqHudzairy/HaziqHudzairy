@@ -43,7 +43,7 @@ I'm passionate about building creative tech solutions — websites, mobile apps,
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="50" height="50"/>
-  <img src="https://seeklogo.com/images/A/autodesk-maya-logo-F485ED50BF-seeklogo.com.png" alt="Maya" width="50" height="50"/>
+  <img src="https://www.softexia.com/wp-content/uploads/2024/04/Autodesk_Maya.webp" alt="Maya" width="50" height="50"/>
 </p>
 
 ---
